@@ -1,0 +1,39 @@
+# This is a sample of log file that contains a lot of various data we can find: java.lang.Exception: invalid log entry: # This is a sample of log file that contains a lot of various data we can find
+# in a log file. Great sample to test reliability and accuracy of any log: java.lang.Exception: invalid log entry: # in a log file. Great sample to test reliability and accuracy of any log
+# analyzer.: java.lang.Exception: invalid log entry: # analyzer.
+# ----------------------------------------------------------------------------: java.lang.Exception: invalid log entry: # ----------------------------------------------------------------------------
+# This sample log file contains 12 differents IPs that are :: java.lang.Exception: invalid log entry: # This sample log file contains 12 differents IPs that are :
+# Viewed traffic: 7 different true human visitors making 8 human visits: java.lang.Exception: invalid log entry: # Viewed traffic: 7 different true human visitors making 8 human visits
+# 23 hits on pages and 15 hits not pages (38 hits): java.lang.Exception: invalid log entry: # 23 hits on pages and 15 hits not pages (38 hits)
+# Not viewed traffic: 11 pages (7 from 80.8.55.5, 1 worm, 3 special status code) , 15 hits: java.lang.Exception: invalid log entry: # Not viewed traffic: 11 pages (7 from 80.8.55.5, 1 worm, 3 special status code) , 15 hits
+# ----------------------------------------------------------------------------: java.lang.Exception: invalid log entry: # ----------------------------------------------------------------------------
+# 80.8.55.1  2 visits (start at 00:00:00 and at 12:00:00 with both entry page on /): java.lang.Exception: invalid log entry: # 80.8.55.1  2 visits (start at 00:00:00 and at 12:00:00 with both entry page on /)
+#            And 2 hits to add favourites but first is non root hit with error meaning it's same "add": java.lang.Exception: invalid log entry: #            And 2 hits to add favourites but first is non root hit with error meaning it's same "add"
+# 80.8.55.2  Not a visit, only an image included into a page of an other site: java.lang.Exception: invalid log entry: # 80.8.55.2  Not a visit, only an image included into a page of an other site
+# 80.8.55.3  1 visit (and add home page to favourites): java.lang.Exception: invalid log entry: # 80.8.55.3  1 visit (and add home page to favourites)
+# 80.8.55.4  same visitor than 80.8.55.3 using aol proxy: java.lang.Exception: invalid log entry: # 80.8.55.4  same visitor than 80.8.55.3 using aol proxy
+# 80.8.55.5  Not a visit (but bot indexing): java.lang.Exception: invalid log entry: # 80.8.55.5  Not a visit (but bot indexing)
+# 80.8.55.6  1 visit (authenticated visitor): java.lang.Exception: invalid log entry: # 80.8.55.6  1 visit (authenticated visitor)
+# 80.8.55.7  1 visit (authenticated visitor with space in name): java.lang.Exception: invalid log entry: # 80.8.55.7  1 visit (authenticated visitor with space in name)
+# 80.8.55.8  Not a visit (try but failed twice with 404 and 405 error): java.lang.Exception: invalid log entry: # 80.8.55.8  Not a visit (try but failed twice with 404 and 405 error)
+# 80.8.55.9  Not a visit (but a worm attack): java.lang.Exception: invalid log entry: # 80.8.55.9  Not a visit (but a worm attack)
+# 80.8.55.10 1 visit that come from a web page that is not a search engine: java.lang.Exception: invalid log entry: # 80.8.55.10 1 visit that come from a web page that is not a search engine
+# 80.8.55.11 1 visit that come from android phone: java.lang.Exception: invalid log entry: # 80.8.55.11 1 visit that come from android phone
+# 80.8.55.12 1 visit that come from air: java.lang.Exception: invalid log entry: # 80.8.55.12 1 visit that come from air
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+80.8.55.7 - John Begood [01/Jan/2001:13:01:00 +0100] "GET /cgi-bin/order.cgi;family=f&type=t&productId=999&titi=i#BIS HTTP/1.0" 200 7009 "http://www.a9.com/searchkeyfroma9" "Mozilla/3.01 (compatible;)": java.lang.Exception: invalid log entry: 80.8.55.7 - John Begood [01/Jan/2001:13:01:00 +0100] "GET /cgi-bin/order.cgi;family=f&type=t&productId=999&titi=i#BIS HTTP/1.0" 200 7009 "http://www.a9.com/searchkeyfroma9" "Mozilla/3.01 (compatible;)"
+80.8.55.7 - John Begood [01/Jan/2001:13:01:00 +0100] "GET /do/Show;jsessionid=6BEF030AB1677BEC333FFCC7BF4DF564?param=1477 HTTP/1.0" 200 7009 "-" "Mozilla/3.01 (compatible;)": java.lang.Exception: invalid log entry: 80.8.55.7 - John Begood [01/Jan/2001:13:01:00 +0100] "GET /do/Show;jsessionid=6BEF030AB1677BEC333FFCC7BF4DF564?param=1477 HTTP/1.0" 200 7009 "-" "Mozilla/3.01 (compatible;)"
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+80.8.55.9 - - [01/Jan/2001:15:00:00 +0200] "SEARCH / -" 411 - "-" "-": java.lang.Exception: invalid log entry: 80.8.55.9 - - [01/Jan/2001:15:00:00 +0200] "SEARCH / -" 411 - "-" "-"
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
+: java.lang.Exception: invalid log entry: 
